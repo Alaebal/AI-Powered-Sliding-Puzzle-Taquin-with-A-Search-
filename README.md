@@ -24,4 +24,4 @@ An interactive 8-puzzle game built with Python and Tkinter, featuring an automat
 1. Ensure you have Python installed.
 2. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/taquin-ai.git](https://github.com/your-username/taquin-ai.git)
+   git clone [https://github.com/alaebal/taquin-ai.git](https://github.com/your-username/taquin-ai.git)
